@@ -63,7 +63,7 @@
 <ul>
 		  <li style="font-size:2vw;"><a class="active" href="inventory_home.php"><b> Home</b></a></li>
 		  <li style="font-size:2vw;"><a href="inventory_add_product.php"> Add product</a></li>
-		  <li style="font-size:2vw;"><a href="inventory_view_product.php"> View product<img src="apieegif.gif" /></a>
+		  <li style="font-size:2vw;"><a href="inventory_view_product.php"> View product<img src="apieegif.jpeg" /></a>
 		  <li style="font-size:2vw;"><a href="inventory_update_delete.php"> update product</a>
 		  <li style="font-size:2vw;"><a href="inventory_report.php"> Report</a></li><br>
 </ul>
