@@ -72,7 +72,7 @@
 	<!--//<div class="dropdown">-->
 	<h1  style="text-shadow:2px 4px black;color:white;font-size:3vw;background-color:DarkTurquoise;border:1px inset gray;"><b><i><center><strong>TCE TALLY</strong></center></i></b></h1><hr>
 	<!--</div>-->
-	<center><?php include 'inventory_report4.php';?></center>
+	<center><?php include 'invenotry_report4.php';?></center>
 	<center><?php include 'invenotry_report6.php';?></center>
 </div>
 
