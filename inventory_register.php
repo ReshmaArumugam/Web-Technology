@@ -4,7 +4,7 @@
     <title>PHP registration system</title>  
 	<style>
 	body {
-			background-image: url('login5_inventory.jpg');
+			background-image: url('login5_inventory.jpeg');
 			background-repeat: no-repeat;
 			background-attachment: fixed;  
 			background-size: cover;
