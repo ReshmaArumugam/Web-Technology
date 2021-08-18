@@ -80,7 +80,7 @@
 	<h1  style="text-shadow:2px 3px gray;color:white;font-size:3vw;background-color:DarkTurquoise;border:1px inset gray;"><b><center><strong>TCE TALLY</strong></center></b></h1><hr>
 	<h1 style="text-shadow:2px 2px green;"><center>About us</center></h1>
 	<h2 style="line-height:2.4;text-align:justify;"><center><i>This mix pretty much sums up what inventory management software can do for your business.<br>Whether you’re running a brick and mortar store, an eCommerce site, a supermarket, or a logistics company, an inventory management system is a must-have. It will give you insights into every aspect of your products, and in some cases, will help you better understand your customers too.</i></center></h2>
-	<center><table cellspacing=15 cellpadding=15 width=60%><tr><td><a href="inventory_add_product.php"><img src='add.png' width="100" height="100"></a></td><td><a href="inventory_update_delete.php"><img src="update.png" width="100" height="100"></a></td><td><a href="inventory_view_product.php"><img src="view.png" width="100" height="100"></a></td><td><a href="inventory_report.php"><img src="report.png" width="100" height="100"></a></td></tr></table></center>
+	<center><table cellspacing=15 cellpadding=15 width=60%><tr><td><a href="inventory_add_product.php"><img src='add.jpeg' width="100" height="100"></a></td><td><a href="inventory_update_delete.php"><img src="update.png" width="100" height="100"></a></td><td><a href="inventory_view_product.php"><img src="view.png" width="100" height="100"></a></td><td><a href="inventory_report.php"><img src="report.png" width="100" height="100"></a></td></tr></table></center>
 </div>
 
 </body>
